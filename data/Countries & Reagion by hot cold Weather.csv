@@ -1,0 +1,197 @@
+Country Name,Country Code,Dominating Weather Condition
+Afghanistan,AFG,Hot
+Albania,ALB,Cold
+Algeria,DZA,Hot
+American Samoa,ASM,Hot
+Andorra,AND,Cold
+Angola,AGO,Hot
+Antigua,ATG,Hot
+Argentina,ARG,Hot
+Armenia,ARM,Cold
+Aruba,ABW,Hot
+Australia,AUS,Hot
+Austria,AUT,Cold
+Azerbaijan,AZE,Hot
+Bahamas,BHS,Hot
+Bahrain,BHR,Hot
+Bangladesh,BGD,Hot
+Barbados,BRB,Hot
+Belarus,BLR,Cold
+Belgium,BEL,Cold
+Belize,BLZ,Hot
+Benin,BEN,Hot
+Bermuda,BMU,Hot
+Bhutan,BTN,Cold
+Bolivia,BOL,Cold
+Bosnia and Herzegovina,BIH,Cold
+Botswana,BWA,Hot
+Brazil,BRA,Hot
+Bulgaria,BGR,Cold
+Burkina Faso,BFA,Hot
+Burundi,BDI,Hot
+Cambodia,KHM,Hot
+Cameroon,CMR,Hot
+Canada,CAN,Cold
+Cape Verde,CPV,Hot
+Cayman Islands,CYM,Hot
+Central African Republic,CAF,Hot
+Chad,TCD,Hot
+Chile,CHL,Cold
+China,CHN,Hot
+Colombia,COL,Hot
+Comoros,COM,Hot
+Costa Rica,CRI,Hot
+Croatia,HRV,Hot
+Cuba,CUB,Hot
+Curacao,CUW,Hot
+Cyprus,CYP,Hot
+Czech Republic,CZE,Cold
+Democratic Republic of the Congo,COD,Hot
+Denmark,DNK,Cold
+Djibouti,DJI,Hot
+Dominica,DMA,Hot
+Dominican Republic,DOM,Hot
+Ecuador,ECU,Hot
+Egypt,EGY,Hot
+El Salvador,SLV,Hot
+Equatorial Guinea,GNQ,Hot
+Eritrea,ERI,Hot
+Estonia,EST,Cold
+Ethiopia,ETH,Hot
+Fiji,FJI,Hot
+Finland,FIN,Cold
+France,FRA,Cold
+Gabon,GAB,Hot
+Gambia,GMB,Hot
+Georgia,GEO,Hot
+Germany,DEU,Cold
+Ghana,GHA,Hot
+Greece,GRC,Hot
+Grenada,GRD,Hot
+Guam,GUM,Hot
+Guatemala,GTM,Hot
+Guinea,GIN,Hot
+Guinea-Bissau,GNB,Hot
+Guyana,GUY,Hot
+Haiti,HTI,Hot
+Honduras,HND,Hot
+Hungary,HUN,Cold
+Iceland,ISL,Cold
+India,IND,Hot
+Indonesia,IDN,Hot
+Iran,IRN,Hot
+Iraq,IRQ,Hot
+Ireland,IRL,Cold
+Israel,ISR,Hot
+Italy,ITA,Hot
+Jamaica,JAM,Hot
+Japan,JPN,Hot
+Jordan,JOR,Hot
+Kazakhstan,KAZ,Cold
+Kenya,KEN,Hot
+Kiribati,KIR,Hot
+Kosovo,XKX,Cold
+Kuwait,KWT,Hot
+Kyrgyzstan,KGZ,Cold
+Latvia,LVA,Cold
+Lebanon,LBN,Hot
+Lesotho,LSO,Cold
+Liberia,LBR,Hot
+Libya,LBY,Hot
+Liechtenstein,LIE,Cold
+Lithuania,LTU,Cold
+Luxembourg,LUX,Cold
+Madagascar,MDG,Hot
+Malawi,MWI,Hot
+Malaysia,MYS,Hot
+Maldives,MDV,Hot
+Mali,MLI,Hot
+Malta,MLT,Hot
+Marshall Islands,MHL,Hot
+Mauritania,MRT,Hot
+Mauritius,MUS,Hot
+Mexico,MEX,Hot
+Micronesia,FSM,Hot
+Moldova,MDA,Cold
+Monaco,MCO,Hot
+Mongolia,MNG,Cold
+Montenegro,MNE,Hot
+Morocco,MAR,Hot
+Mozambique,MOZ,Hot
+Myanmar,MMR,Hot
+Namibia,NAM,Hot
+Nauru,NRU,Hot
+Nepal,NPL,Hot
+Netherlands,NLD,Cold
+New Zealand,NZL,Cold
+Nicaragua,NIC,Hot
+Niger,NER,Hot
+Nigeria,NGA,Hot
+North Korea,PRK,Cold
+Norway,NOR,Cold
+Oman,OMN,Hot
+Pakistan,PAK,Hot
+Palau,PLW,Hot
+Panama,PAN,Hot
+Papua New Guinea,PNG,Hot
+Paraguay,PRY,Hot
+Peru,PER,Hot
+Philippines,PHL,Hot
+Poland,POL,Cold
+Portugal,PRT,Hot
+Puerto Rico,PRI,Hot
+Qatar,QAT,Hot
+Romania,ROU,Cold
+Russia,RUS,Cold
+Rwanda,RWA,Hot
+Saint Lucia,LCA,Hot
+Saint Vincent,VCT,Hot
+Samoa,WSM,Hot
+San Marino,SMR,Cold
+Sao Tome and Principe,STP,Hot
+Saudi Arabia,SAU,Hot
+Senegal,SEN,Hot
+Serbia,SRB,Cold
+Seychelles,SYC,Hot
+Sierra Leone,SLE,Hot
+Singapore,SGP,Hot
+Slovakia,SVK,Cold
+Slovenia,SVN,Cold
+Solomon Islands,SLB,Hot
+Somalia,SOM,Hot
+South Africa,ZAF,Hot
+South Korea,KOR,Cold
+South Sudan,SSD,Hot
+Spain,ESP,Hot
+Sri Lanka,LKA,Hot
+Sudan,SDN,Hot
+Suriname,SUR,Hot
+Swaziland,SWZ,Hot
+Sweden,SWE,Cold
+Syria,SYR,Hot
+Tajikistan,TJK,Cold
+Tanzania,TZA,Hot
+Thailand,THA,Hot
+Timor-Leste,TLS,Hot
+Togo,TGO,Hot
+Tonga,TON,Hot
+Trinidad,TTO,Hot
+Tunisia,TUN,Hot
+Turkey,TUR,Hot
+Turkmenistan,TKM,Hot
+Tuvalu,TUV,Hot
+Uganda,UGA,Hot
+UK,GBR,Cold
+Ukraine,UKR,Cold
+United Arab Emirates,ARE,Hot
+Uruguay,URY,Hot
+USA,USA,Varies
+Uzbekistan,UZB,Hot
+Vanuatu,VUT,Hot
+Venezuela,VEN,Hot
+Vietnam,VNM,Hot
+"Virgin Islands, British",VGB,Hot
+"Virgin Islands, US",VIR,Hot
+Yemen,YEM,Hot
+Zambia,ZMB,Hot
+Zimbabwe,ZWE,Hot
